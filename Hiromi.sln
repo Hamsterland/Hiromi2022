@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hiromi", "Hiromi\Hiromi.csproj", "{00B5137F-279A-4615-9FAC-DDD9544D6ABD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00B5137F-279A-4615-9FAC-DDD9544D6ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00B5137F-279A-4615-9FAC-DDD9544D6ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00B5137F-279A-4615-9FAC-DDD9544D6ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00B5137F-279A-4615-9FAC-DDD9544D6ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+﻿/Hiromi/bin/
+/Hiromi/obj/
+/Hiromi/appsettings.json
+.idea
+Hiromi.sln.DotSettings.user
+analysislevel_6_default.editorconfig
